@@ -8,7 +8,6 @@ Player throw tracks on Goalquad?
 Some players says the throw max on same post
 Does data has sufficient quatity interval?
 pressuresitutaion affects whom?
-Throw Success based on LastThrow results? (If we have heads many times the prob of result tail changes)
-
+Throw Success based on LastThrow results? (If we have heads many times the prob of result tail changes) - The St. Petersburg Paradox - The coin flip conundrum
 
 
