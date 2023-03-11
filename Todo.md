@@ -13,7 +13,8 @@ Throw Success based on LastThrow results? (If we have heads many times the prob 
 
 # 7 Feb 2023
 
-- Fix Team Stats
+- Fix Team Stats (We can only identify home team of player if the player has played with more than one different opponent team)
+  Request Prof. Team: to provide seperate table for [PlayerName, Hometeam] for each league then we can integrate it with data
 - Combined pressure situation
 - Goal throw count percentage distribution not in Pie chart instead on Goal Post
 
@@ -23,4 +24,5 @@ Heat Map for throw direction vs
 - Penalty number
 - Pressure situation
 - Whistle interval
-  Also all above three for each imp player selected by Prof. Tim
+  
+Also all above three for each imp player given by Prof. Tim
